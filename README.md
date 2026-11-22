@@ -1,6 +1,4 @@
-===============================               
-simple xlib top bar for NetBSD  
-===============================
+xlibbar, a simple xlib top bar for NetBSD  
 
 A lightweight, minimalist top status bar built specifically for NetBSD, 
 designed to run with minimal dependencies and ultra-low resource usage.
