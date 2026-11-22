@@ -6,12 +6,12 @@ designed to run with minimal dependencies and ultra-low resource usage.
 Features
 
 Left Side:
-	Simple digital clock.
+   Simple digital clock.
 	
 Right Side (ASCII/Keyboard character indicators):
-	Network Status: Displays -C- when connected and -X- when disconnected.
-	Audio Level: Displays <) accompanied by characters that scale 
-    dynamically according to the current volume level.
+   Network Status: Displays -C- when connected and -X- when disconnected.
+   Audio Level: Displays <) accompanied by characters that scale 
+   dynamically according to the current volume level.
 
 Dependencies
    Xlib
