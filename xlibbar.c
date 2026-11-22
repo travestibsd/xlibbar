@@ -1,7 +1,7 @@
-/******************************************************************\                                                                                             
-*      xlibbar - minimal Xlib status bar for NetBSD                                 *                    
-*      2026 Anlu Rodrigues De Sousa <anludesousa@gmail.com>    *                                                                                                   
-\******************************************************************/
+/*****************************************************************\                                                                                             
+*      xlibbar - minimal Xlib status bar for NetBSD               *                    
+*      2026 Anlu Rodrigues De Sousa <anludesousa@gmail.com>       *                                                                                                   
+\*****************************************************************/
 
                                                                                                
 #include <X11/Xlib.h>
