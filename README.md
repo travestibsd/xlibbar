@@ -14,8 +14,8 @@ Right Side (ASCII/Keyboard character indicators):
    dynamically according to the current volume level.
 
 Dependencies
-   Xlib
-   aiomixer
+   xlib
+   mixerctl (you will need open aiomixer for control volume audio)
    netstat
 
 Installation
