@@ -65,7 +65,7 @@ update_network(void)
     run_command("/usr/bin/netstat -rn -f inet 2>/dev/null", output,
         sizeof(output));
 
-    (void)strlcpy(net_status, "-x-", sizeof(net_status));
+    (void)strlcpy(net_status, "-X-", sizeof(net_status));
     line = strtok(output, "\n");
     while (line != NULL) {
         if (strncmp(line, "default", 7) == 0 ||
